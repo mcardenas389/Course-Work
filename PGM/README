@@ -1,0 +1,10 @@
+#README
+
+pgm.cpp
+
+The purpose of this program is to perform simple algorithms to alter the appearance of a PGM (Portable GreyMap) file. 
+A starting file, image_in.pgm, is needed to be loaded at the start in order for it to work. The first thing you'll see is a
+menu of different algorithms you can perform on your basic image.
+
+Note: The copy option doesn't do anything except for create another object within memory of the image file. It was never
+implemented to do anything else.
